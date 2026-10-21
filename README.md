@@ -1,8 +1,9 @@
 # CourseForge PAAL
 
-Turn a teacher's **syllabus and materials** into a complete **gold-standard, AI-augmented course set**:
-per session an interactive lecture, a teacher deck, gated worked solutions, a hidden instructor key and an
-80%-gating formative quiz, ready to mount on Moodle.
+Turn a teacher's **syllabus and materials** into an **AI-augmented course**, taught or distance, in English
+or Latvian. Each session or week gets short interactive lessons with quick checks, and a quiz or weekly
+self-check that opens the next one. A taught session also gets a class deck. A distance week can add a
+practice block and a two-host podcast. Everything is ready to mount on Moodle.
 
 It runs on **your own Claude account** (the `claude` CLI, no API key) and writes everything to a folder on
 your computer for you to upload. Full guidance lives inside the app under **Help**.
@@ -39,6 +40,6 @@ CourseForge PAAL is the exclusive property of Emmanuel A. Merchán-Cruz, sole au
 application, its source, and the prompts, templates, quality gates and design system it uses. It is not open
 source, and no right to copy, redistribute, resell or create derivative works from it is granted.
 
-Copyright in the application is separate from copyright in what you make with it: the lectures, decks,
-solutions, keys and quizzes you generate belong to you and to your institution. Authoring runs through your
+Copyright in the application is separate from copyright in what you make with it: the lessons, quizzes,
+decks, podcasts and practice pages you generate belong to you and to your institution. Authoring runs through your
 own Claude account, no course content reaches the author of this application, and the app has no telemetry.
