@@ -142,10 +142,10 @@ Measured on one test unit (4 lessons, one part of a distance week), with Claude 
 | --- | --- | --- |
 | Generating a unit (web search, writing, fact review, repair, check) | 83 min | 142 min |
 | Of which the fact review | 23 min | 86 min |
-| Upgrading a unit in place | 13 min | (no upgrade in 1.1.0) |
+| Upgrading a unit in place (one made before 1.1, one made by 1.1.0) | 13 and 16 min | (no upgrade in 1.1.0) |
 
 Estimates, not measured: a course of 6 lesson parts takes about 8 hours to generate with 1.1.1, and about
-1 hour 20 minutes to upgrade in place. Workshops and video scripts come on top of both.
+1.5 hours to upgrade in place. Workshops and video scripts come on top of both.
 
 ## If something goes wrong
 
