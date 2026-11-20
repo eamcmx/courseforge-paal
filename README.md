@@ -23,10 +23,11 @@ Windows 10/11, 64-bit. It installs per user, so no administrator rights are need
 shortcut. At the SmartScreen prompt click **More info**, then **Run anyway**: the installer is unsigned. Run
 the installer normally; the silent switch is not supported. Installing replaces any earlier CourseForge copy.
 
-**Already on 1.1.0 or 1.1.1?** Download **CourseForge-PAAL-Patch-1.1.3.exe** from the
-[1.1.3 release](../../releases/tag/v1.1.3) instead: it updates either one in place and keeps your courses, settings
-and licence. What is new and how to install it is on that page. How to bring courses made before 1.1.1 up to the new
-design: **[upgrade-1.1.1.md](upgrade-1.1.1.md)**.
+**Already on 1.1.0, 1.1.1 or 1.1.3?** Download **CourseForge-PAAL-Patch-1.1.4.exe** from the
+[1.1.4 release](../../releases/tag/v1.1.4) instead: it updates any of them in place and keeps your courses, settings
+and licence. It corrects a fault of every earlier version: on a course with finished workshops, **Generate N
+remaining** wrote those workshops again. What 1.1.3 added is on the [1.1.3 release](../../releases/tag/v1.1.3). How
+to bring courses made before 1.1.1 up to the new design: **[upgrade-1.1.1.md](upgrade-1.1.1.md)**.
 
 ## One-time setup on each machine
 
